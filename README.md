@@ -1,6 +1,6 @@
 <!-- Optional Dark Image Banner -->
 <p align="center">
-  <img src="https://imgur.com/a/AixJZKd.png" alt="Dark Banner" width="800"/>
+  <img src="https://i.imgur.com/OLpMjIc.png" alt="Dark Banner" width="800"/>
 </p>
 
 <!-- Typing Animation -->
