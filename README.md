@@ -3,10 +3,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=Hi+I'm+Chrisnoper+Fredrik+Alexsander;Junior+Graphic+Designer+%26+C%2B%2B+Programmer;Student+at+Esa+Unggul+University+%F0%9F%93%9A;Welcome+to+my+GitHub+Profile+%F0%9F%91%8B" alt="Typing SVG" />
 </p>
 
----
 <!-- Optional Dark Image Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/OLpMjIc.png" alt="Dark Banner" width="150"/>
+  <img src="https://i.imgur.com/OLpMjIc.png" alt="Dark Banner" width="500"/>
 </p>
 
 ---
